@@ -1,0 +1,1 @@
+I've tried out a self project, to create a generator system using GANs, that converts 100-D noise vectors into realistic, handwritten digit samples. the discriminator accuracy stabilised to about 80% after training for about 10 epochs.
